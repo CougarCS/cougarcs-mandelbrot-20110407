@@ -1,0 +1,6 @@
+Requires: Java JDK, graphical environment
+
+If you have make, you can just call `make run` to build and run the code.
+
+---
+From presentation given at CougarCS meeting on 2011-04-07.
